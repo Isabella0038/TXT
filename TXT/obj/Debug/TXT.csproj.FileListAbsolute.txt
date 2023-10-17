@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.Form1.resources
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.Properties.Resources.resources
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TXT\bin\Debug\TXT.exe.config
+C:\Users\Asus\source\repos\TXT\bin\Debug\TXT.exe
+C:\Users\Asus\source\repos\TXT\bin\Debug\TXT.pdb
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.exe
+C:\Users\Asus\source\repos\TXT\obj\Debug\TXT.pdb
